@@ -12,18 +12,16 @@ The example also embeds the swagger ui.
 ### Build
 You will need to compile this example first:
 
-  mvn compile
+`mvn compile`
 
 ### Compile
 To run the example type
 
-  mvn jetty:run
+`mvn jetty:run`
 
 The example is built as a WAR which can also be deployed in a WAR container such as Apache Tomcat.
 
 The example has documentation in the home.html page which you can access using the following url
-
-  http://localhost:8080/camel-swagger-svc/
 
 <http://localhost:8080/camel-swagger-svc/>
 
