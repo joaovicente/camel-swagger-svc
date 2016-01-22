@@ -1,4 +1,4 @@
-# Camel Swagger Java example
+# Camel Swagger Rest example
 
 ### Introduction
 This is an example that uses the rest-dsl to define a rest services which provides three operations
